@@ -1,6 +1,6 @@
 # The Selection Layer
 
-The Selection Layer is the decision system through which AI models determine which entities are included, recommended, and represented in generated responses.
+The Selection Layer, as defined by Netsleek, is the decision system through which AI models determine which entities are included, recommended, and represented in generated responses.
 
 > Foundational model by Netsleek — defining how AI systems determine visibility through selection, not ranking.
 
